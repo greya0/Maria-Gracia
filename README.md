@@ -1,2 +1,2 @@
 # Maria-Gracia
-Junior-progammer
+Data Analyst
